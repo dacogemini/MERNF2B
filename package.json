@@ -17,6 +17,7 @@
     "bcryptjs": "^2.4.3",
     "body": "^5.1.0",
     "express": "^4.16.3",
+    "gravatar": "^1.6.0",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.12",
     "parser": "^0.1.4",
